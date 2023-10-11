@@ -1,5 +1,6 @@
 ## Hi there, I'm Noemi 👋
-I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves to learn new things✏️ and participate in interesting proyects📈
+<br>I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves learning new things✏️ and participating in interesting proyects📈</br>
+<br>Especially interested in Data Science📊 and Machine Learning🧠 topics</br>
 
 ### Technology stack:
 <div display="flex">
@@ -7,7 +8,9 @@ I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves to learn new t
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS"/>
 </div>
 
 ### 🔭 I’m working on
@@ -17,9 +20,8 @@ I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves to learn new t
 
 ### 🌱 I’m learning
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBi"/>
 </div>
 
 ### 📫 How to reach me
@@ -28,9 +30,7 @@ I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves to learn new t
   <a href="https://www.linkedin.com/in/noemi-carolina/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 ### ⚡ Fun fact
+I love music🎵 and playing the violin🎻
