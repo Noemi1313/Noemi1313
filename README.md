@@ -2,12 +2,13 @@
 <br>I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves learning new things✏️ and participating in interesting proyects📈</br>
 <br>Especially interested in Data Science📊 and Machine Learning🧠 topics</br>
 
-### Technology stack:
+### 💻Technology stack:
 <div display="flex">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS"/>
@@ -32,5 +33,11 @@
   </a>
 </div>
 
+### 🔥 Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noemi1313&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemi1313&layout=compact&theme=vision-friendly-dark" alt ="p" width="355"/>
+<!--![Noemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noemi1313&show_icons=true&theme=radical)-->
+
 ### ⚡ Fun fact
 I love music🎵 and playing the violin🎻
+
