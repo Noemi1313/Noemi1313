@@ -1,5 +1,5 @@
 ## Hi there, I'm Noemi 👋
-<br>I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves learning new things✏️ and participating in interesting proyects📈</br>
+<br>I'm a Robotics🤖 and Digital Systems🖥️ Engineer that loves learning new things✏️ and participating in interesting projects📈</br>
 <br>Especially interested in Data Science📊 and Machine Learning🧠 topics</br>
 
 ### 💻Technology stack:
